@@ -1,5 +1,5 @@
 =====
-creating our own WC tool using python 
+creating our own WC tool
 ======
 
 User input and output

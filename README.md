@@ -2,7 +2,6 @@
 creating our own WC tool using python 
 ======
 
-
 User input and output
 ===========
 
@@ -19,6 +18,7 @@ Number of lines in 'sample3.txt': 21
 Number of words in 'sample3.txt': 546
 Number of characters in 'sample3.txt': 3541
 =========================
+
 if you provide specific flag while running the utility it will work accordingly 
 pnagar448@NJSML-1731830 CodingChallenges % /usr/local/bin/ccwc -c sample3.txt
 Number of bytes in 'sample3.txt': 3541
@@ -27,8 +27,6 @@ Number of words in 'sample3.txt': 546
 pnagar448@NJSML-1731830 CodingChallenges % /usr/local/bin/ccwc -l sample3.txt
 Number of lines in 'sample3.txt': 21
 =====================================
-verified the output with wc || stat tool in mac and the result is matching
+
+verified the output with wc and stat tool in mac and the result is matching with ccwc utility 
 =========
-
-
-
